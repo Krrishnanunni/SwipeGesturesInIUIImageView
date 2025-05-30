@@ -17,6 +17,7 @@
 		2A5CDCD42DE81369005AE941 /* SwipeGesturesTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A5CDCD32DE81369005AE941 /* SwipeGesturesTests.swift */; };
 		2A5CDCDE2DE81369005AE941 /* SwipeGesturesUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A5CDCDD2DE81369005AE941 /* SwipeGesturesUITests.swift */; };
 		2A5CDCE02DE81369005AE941 /* SwipeGesturesUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A5CDCDF2DE81369005AE941 /* SwipeGesturesUITestsLaunchTests.swift */; };
+		2A5CDCED2DE8139F005AE941 /* HomeVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A5CDCEC2DE8139F005AE941 /* HomeVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		2A5CDCD92DE81369005AE941 /* SwipeGesturesUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwipeGesturesUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2A5CDCDD2DE81369005AE941 /* SwipeGesturesUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwipeGesturesUITests.swift; sourceTree = "<group>"; };
 		2A5CDCDF2DE81369005AE941 /* SwipeGesturesUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwipeGesturesUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		2A5CDCEC2DE8139F005AE941 /* HomeVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +107,7 @@
 				2A5CDCBB2DE81366005AE941 /* SceneDelegate.swift */,
 				2A5CDCBD2DE81366005AE941 /* ViewController.swift */,
 				2A5CDCBF2DE81366005AE941 /* Main.storyboard */,
+				2A5CDCEC2DE8139F005AE941 /* HomeVC.swift */,
 				2A5CDCC52DE81368005AE941 /* Assets.xcassets */,
 				2A5CDCC72DE81368005AE941 /* LaunchScreen.storyboard */,
 				2A5CDCCA2DE81368005AE941 /* Info.plist */,
@@ -262,6 +265,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				2A5CDCC42DE81366005AE941 /* SwipeGestures.xcdatamodeld in Sources */,
+				2A5CDCED2DE8139F005AE941 /* HomeVC.swift in Sources */,
 				2A5CDCBE2DE81366005AE941 /* ViewController.swift in Sources */,
 				2A5CDCBA2DE81366005AE941 /* AppDelegate.swift in Sources */,
 				2A5CDCBC2DE81366005AE941 /* SceneDelegate.swift in Sources */,
